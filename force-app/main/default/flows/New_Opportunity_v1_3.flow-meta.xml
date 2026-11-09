@@ -4708,7 +4708,7 @@ IF({!vIndustry} = &quot;Government/Municipality&quot;, &quot;Government&quot;,
             <targetReference>Record_ID_Exists</targetReference>
         </connector>
     </start>
-    <status>Active</status>
+    <status>Draft</status>
     <variables>
         <name>NewBusinessChoice</name>
         <dataType>String</dataType>
