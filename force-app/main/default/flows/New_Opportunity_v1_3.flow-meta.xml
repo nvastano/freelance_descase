@@ -19,6 +19,22 @@
         </connector>
     </assignments>
     <assignments>
+        <name>Assign_Existing_Contact</name>
+        <label>Assign Existing Contact</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <assignmentItems>
+            <assignToReference>vContactId.Id</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <elementReference>Find_Existing_Contact.Id</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Chosen_Stage</targetReference>
+        </connector>
+    </assignments>
+    <assignments>
         <name>Assign_Industry_Variable</name>
         <label>Assign Industry Variable</label>
         <locationX>622</locationX>
@@ -651,7 +667,7 @@
                 </rightValue>
             </conditions>
             <connector>
-                <targetReference>Create_Contact</targetReference>
+                <targetReference>Find_Existing_Contact</targetReference>
             </connector>
             <label>Create New Contact</label>
         </rules>
@@ -819,6 +835,38 @@
                 <targetReference>Opportunity_Contacts_0</targetReference>
             </connector>
             <label>OEM Contact</label>
+        </rules>
+    </decisions>
+    <decisions>
+        <name>Existing_Contact_Found</name>
+        <label>Existing Contact Found</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <defaultConnector>
+            <targetReference>Create_Contact</targetReference>
+        </defaultConnector>
+        <defaultConnectorLabel>No Match</defaultConnectorLabel>
+        <rules>
+            <name>Use_Existing_Contact</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>Email</leftValueReference>
+                <operator>IsNull</operator>
+                <rightValue>
+                    <booleanValue>false</booleanValue>
+                </rightValue>
+            </conditions>
+            <conditions>
+                <leftValueReference>Find_Existing_Contact</leftValueReference>
+                <operator>IsNull</operator>
+                <rightValue>
+                    <booleanValue>false</booleanValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Assign_Existing_Contact</targetReference>
+            </connector>
+            <label>Use Existing Contact</label>
         </rules>
     </decisions>
     <decisions>
@@ -1856,6 +1904,9 @@ IF({!vIndustry} = &quot;Government/Municipality&quot;, &quot;Government&quot;,
         <connector>
             <targetReference>Chosen_Stage</targetReference>
         </connector>
+        <faultConnector>
+            <targetReference>Contact_Create_Error</targetReference>
+        </faultConnector>
         <inputAssignments>
             <field>AccountId</field>
             <value>
@@ -1929,6 +1980,36 @@ IF({!vIndustry} = &quot;Government/Municipality&quot;, &quot;Government&quot;,
         <object>OpportunityContactRole</object>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </recordCreates>
+    <recordLookups>
+        <description>Looks for a contact on this account with the email entered for the new contact, so the flow reuses it instead of tripping the duplicate rule.</description>
+        <name>Find_Existing_Contact</name>
+        <label>Find Existing Contact</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Existing_Contact_Found</targetReference>
+        </connector>
+        <filterLogic>and</filterLogic>
+        <filters>
+            <field>AccountId</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>Get_Account_Info.Id</elementReference>
+            </value>
+        </filters>
+        <filters>
+            <field>Email</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>Email</elementReference>
+            </value>
+        </filters>
+        <getFirstRecordOnly>true</getFirstRecordOnly>
+        <object>Contact</object>
+        <queriedFields>Id</queriedFields>
+        <storeOutputAutomatically>true</storeOutputAutomatically>
+    </recordLookups>
     <recordLookups>
         <name>Get_Account_Contacts</name>
         <label>Get Account Contacts</label>
@@ -2587,6 +2668,22 @@ IF({!vIndustry} = &quot;Government/Municipality&quot;, &quot;Government&quot;,
         </fields>
         <showFooter>true</showFooter>
         <showHeader>false</showHeader>
+    </screens>
+    <screens>
+        <name>Contact_Create_Error</name>
+        <label>Contact Create Error</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <fields>
+            <name>ContactCreateErrorText</name>
+            <fieldText>&lt;p&gt;&lt;b&gt;The new contact could not be created.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This person most likely already exists in Salesforce. Click &lt;b&gt;Previous&lt;/b&gt;, turn off Create New Contact, and select them as the Primary Contact instead.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11px; color: rgb(112, 110, 107);&quot;&gt;Details: {!$Flow.FaultMessage}&lt;/span&gt;&lt;/p&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
     </screens>
     <screens>
         <description>This is a screen for the user to select the Industry for the Opportunity</description>
