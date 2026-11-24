@@ -1,0 +1,582 @@
+Id,Subject,ActivityDate,WhoId,WhatId,AccountId,Account.BillingCountry,Account.Territory__r.Name,Account.OwnerId,Status,Priority,Description,OwnerId
+00TPC00000Ah6Qz2AJ,Won Opportunity 4 Mon Followup,2021-01-28,,0063b00001FuggwAAB,0013b00001sRPsmAAG,NO,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AggTJ2AZ,Won Opportunity 4 Mon Followup,2021-07-29,,0063b00001GsYNIAA3,001C000001jqGZsIAM,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Ah6KX2AZ,Won Opportunity 4 Mon Followup,2021-07-29,,0063b00001DYQWdAAP,0013b00001tESjyAAG,SE,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Ah5zZ2AR,Won Opportunity 4 Mon Followup,2021-08-28,,0063b00001GtYZgAAN,0013b00001nxenWAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgcCv2AJ,Won Opportunity 4 Mon Followup,2021-10-27,,0063b00001H7KckAAF,0013b00001nxej1AAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Ageg32AB,Won Opportunity 4 Mon Followup,2021-11-03,,0063b00001H6SuFAAV,0013b00001nxej1AAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AggoI2AR,Won Opportunity 4 Mon Followup,2021-11-24,,0063b00001H7aCiAAJ,0013b00001nxelYAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgeUl2AJ,Won Opportunity 4 Mon Followup,2022-01-05,,0063b00001H5n4YAAR,0013b00001vrAwCAAU,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Agiwa2AB,Won Opportunity 4 Mon Followup,2022-04-14,,0063b00001H8ahLAAR,0013b00001wZ8GiAAK,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgluP2AR,Won Opportunity 4 Mon Followup,2022-05-11,,0063b00001HmuYZAAZ,0013b00001nxejSAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgdFK2AZ,Won Opportunity 4 Mon Followup,2022-05-26,,0063b00001GNXjRAAX,0013b00001nxenJAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgjuE2AR,Won Opportunity 4 Mon Followup,2022-07-28,,0063b00001IAaUWAA1,0013b00001nxejnAAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Agfdm2AB,Won Opportunity 4 Mon Followup,2022-09-14,,0063b00001IAaJiAAL,0013b00001yprotAAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Aglqh2AB,Won Opportunity 4 Mon Followup,2022-09-15,,0063b00001Ho1VDAAZ,0013b00001yKIhQAAW,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Ah7ID2AZ,Won Opportunity 4 Mon Followup,2022-09-22,,0063b00001HIJbhAAH,0013b00001nxekXAAQ,FO,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgmdZ2AR,Won Opportunity 4 Mon Followup,2022-10-05,,0063b00001HKWKwAAP,0013b00001zVoScAAK,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgmiP2AR,Won Opportunity 4 Mon Followup,2022-10-06,,0063b00001HKWHnAAP,0013b00001zVoScAAK,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JLgSIEA1,Won Opportunity 4 Mon Followup,2022-10-12,,0063b00001J4asZAAR,0013b00001tEvhAAAS,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007KiyQpEAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-12,00Q3b000020GL3TEAW,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyQtEAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-16,003C000001oixoaIAA,,001C000001JT8YbIAL,PL,EU42,005C000000B7DLFIA3,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyQwEAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-19,00Q3b000020GL3VEAW,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyQxEAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-20,00Q3b000020GL2dEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyQyEAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-21,00Q3b000020GL2aEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyQzEAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-22,00Q3b000020GL2bEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyR0EAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-23,00Q3b000020GL2cEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyR1EAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-24,00Q3b000020GL2eEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyR2EAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-25,00Q3b000020GL2fEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007JeLrEEAV,Won Opportunity 4 Mon Followup,2022-10-26,,0063b00001J4iuhAAB,0013b000021nz1EAAQ,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007KiyR4EAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-27,00Q3b000020GL2hEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyR5EAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-28,00Q3b000020GL2iEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyR6EAJ,Follow-up on Lubricant Expo 2022 Lead,2022-10-29,00Q3b000020GL2jEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007GbIN6EAN,Won Opportunity 4 Mon Followup,2022-11-01,,0063b00001IkOZhAAN,0013b00001u4PPfAAM,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007GduZhEAJ,Won Opportunity 4 Mon Followup,2022-11-05,,0063b00001IkXtvAAF,0013b00001nxej0AAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007KiyRFEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-07,00Q3b000020GL2nEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRGEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-08,00Q3b000020GL2kEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRHEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-09,00Q3b000020GL2lEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00TPC00000Agfx82AB,Won Opportunity 4 Mon Followup,2022-11-10,,0063b00001IkYNvAAN,0013b00001nxejUAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007KiyRIEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-10,00Q3b000020GL2mEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRJEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-11,00Q3b000020GL2oEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRKEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-12,00Q3b000020GL2pEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRLEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-13,00Q3b000020GL2qEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRMEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-14,00Q3b000020GL2rEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRNEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-15,0033b00002rdnM6AAI,,0013b000023abFEAAY,UK,EU50,005C000000B7DLFIA3,Not Started,Normal,,005C000000B7DLFIA3
+00TPC00000AglHj2AJ,Won Opportunity 4 Mon Followup,2022-11-16,,0063b00001Il3HRAAZ,0013b00001pHQFoAAO,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007KiyROEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-16,00Q3b000020GL2tEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRPEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-17,00Q3b000020GL2uEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRQEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-18,00Q3b000020GL2vEAG,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007NuBDiEAN,"Unresolved Email: RMF systems B.V. Prijsverhoging, effectief per 2 januari 2023",2022-11-21,,,,,,,Not Started,Normal,"Additional To: services@vanmeeuwen.com
+CC: sales.emea@descase.com
+BCC: 
+Attachment: image001.jpg, (EURO) DES-CASE - Americas, EMEA & APC 2023 PRICE LIST 1.0 (11032022).pdf, RMF Systems Price Increase Effective January 2nd  2023 EMEA - EN.pdf
+
+Subject: RMF systems B.V. Prijsverhoging, effectief per 2 januari 2023
+Body:
+Beste.,
+
+Per 2 januari 2023 zijn wij genoodzaakt een prijsverhoging door te voeren.
+In bijgevoegde brief staat vermeld welke wijzigingen zullen worden doorgevoerd. Ook vind je de nieuwe prijslijst in de bijlage.
+
+Mochten jullie vragen hebben dan hoor ik het uiteraard graag.
+
+Mvrgr,
+
+
+Gijs van Schaik | Regional Sales Manager
+ [cid:image001.jpg@01D8FD94.2862CB60] <http://descase.com/>
+Coenecoop 99, 2741 PH, Waddinxveen, The Netherlands
+Direct:+31(0)182 244 867 | Mobile:+31(0) 654235363
+descase.com<https://www.descase.com/> | gijs.vanschaik@descase.com<mailto:gijs.vanschaik@descase.com>
+Blog<https://www.descase.com/blog> | Facebook <https://www.facebook.com/DesCaseCorporation> | Twitter<https://twitter.com/descase> | LinkedIn<https://www.linkedin.com/company/des-case-corporation> | YouTube<https://www.youtube.com/user/DesCaseCorporation/videos>
+RMF Systems B.V. is a legal entity of Des-Case
+Please consider the environment before printing this email.
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction, or an official statement of Sender.",005C000000B7DLFIA3
+00T3b00007KiyRXEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-25,00Q3b000020GL3WEAW,,,,,,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007KiyRYEAZ,Follow-up on Lubricant Expo 2022 Lead,2022-11-26,0033b00002rdnLmAAI,,0013b000023abFEAAY,UK,EU50,005C000000B7DLFIA3,Not Started,Normal,,005C000000B7DLFIA3
+00T3b00007JeHgTEAV,Won Opportunity 4 Mon Followup,2022-11-30,,0063b00001J4ifXAAR,0013b00001nxeoDAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JeJ8yEAF,Won Opportunity 4 Mon Followup,2022-11-30,,0063b00001J4ikcAAB,0013b00001u4rlVAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JeKZOEA3,Won Opportunity 4 Mon Followup,2022-11-30,,0063b00001J4ipXAAR,0013b000021nyxlAAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JeKleEAF,Won Opportunity 4 Mon Followup,2022-11-30,,0063b00001J4itKAAR,0013b000021nyyQAAQ,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JeM6PEAV,Won Opportunity 4 Mon Followup,2022-11-30,,0063b00001J4ivaAAB,0013b000021nz1OAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JeQCpEAN,Won Opportunity 4 Mon Followup,2022-11-30,,0063b00001J4jCvAAJ,0013b00001u4kb3AAA,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JeLzIEAV,Won Opportunity 4 Mon Followup,2022-12-01,,0063b00001J4iwJAAR,0013b000021nz2HAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Agf7U2AR,Won Opportunity 4 Mon Followup,2022-12-01,,0063b00001IlKypAAF,0013b000020cTFbAAM,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007ILczZEAT,Won Opportunity 4 Mon Followup,2022-12-02,,0063b00001J3J2yAAF,0013b00001nxehGAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007ILczvEAD,Won Opportunity 4 Mon Followup,2022-12-02,,0063b00001IkXzjAAF,0013b00001pIELiAAO,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007RzUfrEAF,Won Opportunity 4 Mon Followup,2022-12-07,,0063b00001JhjA3AAJ,0013b00001nxeoUAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgkNG2AZ,Won Opportunity 4 Mon Followup,2022-12-07,,0063b00001IlV6mAAF,0013b00001pHexvAAC,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgiR22AJ,Won Opportunity 4 Mon Followup,2022-12-21,,0063b00001HksAaAAJ,0013b00001v4jYaAAI,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007JLgisEAD,Won Opportunity 4 Mon Followup,2022-12-22,,0063b00001IkOupAAF,0013b00001v5WPJAA2,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00T3b00007KiYO9EAN,Won Opportunity 4 Mon Followup,2023-01-18,,0063b00001J5rpbAAB,0013b000021p59bAAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Agktj2AB,Won Opportunity 4 Mon Followup,2023-01-19,,0063b00001J3aQYAAZ,0013b00001nxej1AAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgfPJ2AZ,Won Opportunity 4 Mon Followup,2023-02-09,,0063b00001JSEiWAAX,0013b000021rJn7AAE,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgfRb2AJ,Won Opportunity 4 Mon Followup,2023-02-09,,0063b00001IkO6fAAF,0013b000020biPQAAY,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgbGn2AJ,Won Opportunity 4 Mon Followup,2023-03-08,,0063b00001DYKojAAH,0013b00001v4jYaAAI,BE,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AfqZa2AJ,Won Opportunity 4 Mon Followup,2023-03-31,,0063b00001GMRU7AAP,0013b00001u2LjWAAU,SE,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgjRE2AZ,Won Opportunity 4 Mon Followup,2023-04-06,,0063b00001J3aAGAAZ,0013b000020dkJ2AAI,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Ah6642AB,Won Opportunity 4 Mon Followup,2023-05-18,,0063b00001JfmlSAAR,0013b000022vu2DAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AgtCD2AZ,Won Opportunity 4 Mon Followup,2023-06-22,,0063b00001Jfmc1AAB,0013b000022vtu9AAA,FI,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AhDkJ2AV,Won Opportunity 4 Mon Followup,2023-06-30,,0063b00001Ji02vAAB,0013b00001nxenrAAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Ah4lt2AB,Won Opportunity 4 Mon Followup,2023-08-17,,0063b00001JhjC3AAJ,0013b00001nxeoUAAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AhE1x2AF,Won Opportunity 4 Mon Followup,2023-09-05,,0063b00001K7tewAAB,0013b00001nxefSAAQ,DK,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000AhC3P2AV,Won Opportunity 4 Mon Followup,2024-02-06,,0063b00001KcOeEAAV,0013b00001nxekiAAA,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000Cm6Z12AJ,change of email adresses for OCs and invoices,2024-02-26,003PC000007xqZkYAI,001PC000007xGhTYAU,001PC000007xGhTYAU,CZ,EU43,005C000000B7DLFIA3,Not Started,Normal,"Additional To: ar.emea@descase.com
+CC: 
+BCC: 
+Attachment: image001.jpg, image.png, Outlook-xfyopm0w.png
+
+Subject: Fw: change of email adresses for OCs and invoices
+Body:
+Vita.
+
+FYI
+
+Het email adres voor invoices is aangepast bij customer 15000187
+
+<cz.invoice@dellnerhydratech.com> =>  <cz.invoice@dellnerwind.com>
+
+[cid:2d5cf78c-8c46-479f-9efe-54c3c543407b]
+
+met vriendelijke groet,
+Lourens A. Rhijnsburger
+
+PLEASE REPLY TO THIS EMAIL ACCOUNT SALES.EMEA@DESCASE.COM, THANK YOU
+
+_________________________________________________________
+
+[cid:03ed56ea-b26a-4859-ae26-0cf375d93b75]
+
+RMF Systems B.V. is a legal entity of Des-Case
+
+Coenecoop 99, 2741 PH  Waddinxveen, The Netherlands
+Main:+31(0)182 244 888 | Sales Direct:+31(0)182 244 860
+descase.com<https://www.descase.com/> | sales.EMEA@descase.com<mailto:sales.EMEA@descase.com>
+Blog<https://www.descase.com/blog> | Facebook <https://www.facebook.com/DesCaseCorporation> | Twitter<https://twitter.com/descase> | LinkedIn<https://www.linkedin.com/company/des-case-corporation> | YouTube<https://www.youtube.com/user/DesCaseCorporation/videos>
+
+
+
+P please consider the environment before printing this email
+
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential, or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction or an official statement of Sender.
+
+________________________________
+From: Daniel Marek <daniel.marek@dellnerwind.com>
+Sent: Monday, February 26, 2024 7:56
+Subject: change of email adresses for OCs and invoices
+
+You don't often get email from daniel.marek@dellnerwind.com. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>
+
+CAUTION: This email originated from outside of Des-Case. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Dear valued supplier.
+
+
+
+We hope this message finds you well.
+
+
+
+We are writing to inform you about a recent change in our email addresses for handling confirmations and invoices. Please update your records accordingly to ensure that all future correspondence reaches the appropriate department without delay.
+
+
+
+New Email Addresses:
+
+
+
+Confirmation of orders: cz.po@dellnerwind.com<mailto:cz.po@dellnerwind.com> (please send OC within 48 hours since receiving an order).
+
+
+
+Invoice Submissions: cz.invoice@dellnerwind.com<mailto:cz.invoice@dellnerwind.com>
+
+
+
+With immediate effect, please use these updated email addresses for any confirmations or invoices related to our business transactions.
+
+
+
+This change aims to streamline our communication channels and ensure efficient processing of your documents. We kindly request your cooperation in updating your contact details accordingly.
+
+
+
+Should you have any questions or require further clarification regarding this change, please do not hesitate to contact us at cz.po@dellnerwind.com<mailto:cz.po@dellnerwind.com>
+
+
+
+Thank you for your attention to this matter, and we appreciate your continued partnership.
+
+
+
+Best regards.
+
+
+
+Daniel Marek
+Logistics specialist/Buyer
+
+Phone +420 778 788 438
+Mail: Daniel.marek@dellnerwind.com<mailto:Daniel.marek@dellnerwind.com>
+
+[cid:image001.jpg@01DA6889.169D5970]
+
+Dellner Hydratech Czech Republic s.r.o.
+Jižní 401 – Industrial Park Triangle
+
+439 49 Staňkovice, Czech Republic
+
+Dear sender, please note my email address was changed to :
+
+
+
+Daniel.marek@dellnerwind.com<mailto:Daniel.marek@dellnerwind.com>",005C000000B7DLFIA3
+00TPC00000Ah7Ry2AJ,Won Opportunity 4 Mon Followup,2024-05-27,,006PC000003tHbBYAU,001C000001jqE7UIAU,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000KA7be2AD,Won Opportunity 4 Mon Followup,2024-09-04,,006PC000006WbgvYAC,0013b00001tESjyAAG,SE,EU60,005C000000B7DLFIA3,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000KACKn2AP,Won Opportunity 4 Mon Followup,2024-10-01,,006PC000006pPNVYA2,001PC000008JVczYAG,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000QH3xJ2AT,Won Opportunity 4 Mon Followup,2025-01-08,,006PC00000BXIKnYAP,001PC00000ESOFbYAP,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,Call Customer to confirm breathers/elements are spent.,005C000000B7DLFIA3
+00TPC00000XBkxQ2AT,FW: [EXT] TNT shipment notification for 374338567,2025-01-28,0033b00002vHTZ3AAO,0013b00001nxehyAAA,0013b00001nxehyAAA,SE,EU60,005C000000B7DLFIA3,Not Started,Normal,"Additional To: jer@filterteknik.se
+CC: sales.emea@descase.com; jamal.benaalam@descase.com; logistics.emea@descase.com
+BCC: 
+Attachment: Outlook-ltt0cwaz.png
+
+Subject: FW: [EXT] TNT shipment notification for 374338567
+Body:
+Hi Jimmy,
+
+Received this transport warning, not for me?
+
+Did we create an RMA number for returns?
+
+
+
+Best regards,
+
+Lourens A. Rhijnsburger | Inside Sales & Support
+
+[cid:31f30094-48b1-4674-8eca-1397c27acd2b]
+
+RMF Systems B.V. | Coenecoop 99, 2741 PH, Waddinxveen, Netherlands
+
+Main: +31.(0)182.244.888
+descase.com<https://urldefense.com/v3/__https://www.descase.com/__;!!PoGYGYb4!jEr65Mu21bkiShvijwH40zoRhpCD4CJAWzpLaxQuaHqtqS7Qv5li1ZIkKFQ2_gJ2V-0FNUDkkCiqW7xlbjF6HUJvMouM0A$> | Lourens.Rhijnsburger@descase.com<mailto:Lourens.Rhijnsburger@descase.com>
+Blog<https://www.descase.com/blog/> | Facebook <https://www.facebook.com/DesCaseCorporation/> | LinkedIn<https://www.linkedin.com/company/des-case-corporation> | YouTube<https://www.youtube.com/user/DesCaseCorporation>
+
+Please consider the environment before printing this email.
+
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction, or an official statement of Sender
+
+________________________________
+Van: TNT Shipment Notification <shipment@mail.tnt.com>
+Verzonden: dinsdag 28 januari 2025 10:25
+Aan: Rhijnsburger, Lourens Alfred <lourens.rhijnsburger@descase.com>
+Onderwerp: [EXT] TNT shipment notification for 374338567
+
+This Message Is From an External Sender
+This message came from outside your organization.
+
+Email not displaying correctly? click here<https://urldefense.com/v3/__https://view.mail.tnt.com/?qs=92947f35704a1687c1b24a207379e4ad27f07653b5bded291193eccf006450cdc3b96b53fd51e48c7230d58eab35855794c43a00bcc01001a8b47c189e1de5d4bf20599776fd4c32f922a2f5668d77cd__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWPbN7CEs$>
+[TNT]<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec9463bdd2b8777acb96d213ce1be1551df4b209603769774b1cd6576bee43483c08b79ea5f51261e177bfccaa94b4da0b8a2c907395d2e4288ed__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWQhEdBY8$>
+SHIPMENT NO. 374338567
+[http://image.mail.tnt.com/lib/fe9713737565077577/m/1/0d09e146-8ba0-4271-97d0-f85ed0bf11ce.gif]<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec9465a6ca364c32bd8808340783669f0794a28aa2639a38b2631785de8f01488d202aba41eb1c3f4a90415e43f6a7b0983056b9ea1dc02479365__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWc9iT6WM$>
+
+
+From:
+Filterteknik Sverige AB
+[http://image.mail.tnt.com/lib/fe9713737565077577/m/1/3cfd6ca9-0c00-4505-bbf2-ba5d9e6d993e.png]
+Karlstad,
+SWEDEN
+
+
+Expected Delivery Date:
+January 30, 2025
+[http://image.mail.tnt.com/lib/fe9713737565077577/m/1/87e44880-50cb-4ef2-9775-2cdb946713b7.png]
+Waddinxveen,
+NETHERLANDS
+
+        Your shipment will be with you soon
+
+
+
+Good news. Filterteknik Sverige AB has arranged for us to deliver your shipment. Your shipment will be delivered on January 30, 2025 .
+
+The shipment number is 374338567
+
+
+
+Track your shipment<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec946a559c4da367b78809945700d5c2caca7c204b9570c4ee47b0a17c542235e57e5f94c3c82d3d8f9ab449485faab76b2a0ce2ca8320d68ca4a__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWW8o4X7I$>
+
+
+
+        Your shipment
+[expected delivery]
+
+Type: 1 box
+Weight: 28 kg
+Shipment reference:
+Description: Filter
+
+
+
+
+        Customer information
+
+
+Collected from:
+Filterteknik Sverige AB
+Dagvindsgatan 2
+Karlstad
+652 21
+SWEDEN
+
+Contact Name: Jimmy Eriksson
+Email: jer@filterteknik.se<mailto:jer@filterteknik.se>
+Tel: +4654690900<tel:++4654690900>
+
+Delivered to:
+RMF SYSTEMS
+COENECOOP 99
+Waddinxveen
+2741 PH
+NETHERLANDS
+
+
+
+
+
+
+
+Book shipments any time, anywhere
+
+Did you know you can easily send packages online with myTNT?    [devices]
+
+Find out more<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec94667697283ccb23d1b9611241606db0ba4442cd6dd187f75ab199f085f8a25de69050bfcde9e6e53e16abe017268d6094ffbe21bd03f683172__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWSgDCc_E$>
+
+
+
+
+
+
+
+        We're here to help
+
+
+If you've got any questions about your shipment or the services we provide, just get in touch<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec94610057258924406f59362ed178c420a1d73ef29999f091d6abd3c00f8d038943a5e20fa224429c0ed232df1a6a4471614b6243d3474bf6f60__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWbBtaSek$>
+
+
+
+
+
+
+
+
+PS: Don't forget to download our mobile
+app to manage all your shipments.
+
+[http://image.mail.tnt.com/lib/fe9713737565077577/m/1/7b00c149-6bc4-4a72-9584-53e6470d2440.png]<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec946dbd60a39036607f0e394864fc4c4ada702dd69f00848488d40938ec79241996392489f77bef3c83184c1481fc1e83d8437533830221eb019__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWxmAPpnY$>
+
+[http://image.mail.tnt.com/lib/fe9713737565077577/m/1/821fb484-f00a-41eb-ae22-9034e56312b2.png]<https://urldefense.com/v3/__https://click.mail.tnt.com/?qs=dd3fc250d69ec94671738822a2dbc95ff0816fdddb977655d0018526bf5051e181e9791ab0b8d25a7187149e6f93aa621d095e213dcc41c2f399f08cffab489a__;!!HZrNX8cdzKKJHA!QineVngZT1HYObl3B6OQYOrPn9g686h9MIDu8Qn_L9EtLVNbWmNgBRTPPrFvaUAvvxbcc5xYCs-f55Vwd1g5ZVcWtxS6R70$>
+
+
+
+This message and any attachments are confidential and may be privileged or protected from disclosure. If you're not the intended receiver, please contact the sender and delete this message and any attachments from your system. Furthermore, you must not copy this message or disclose its contents or attachments to any other person.
+
+Please consider the environmental impact before printing this email and its attachments. If you do have to print, try to do so in black and white and keep it double-sided where possible.",005C000000B7DLFIA3
+00TPC00000pPt2T2AS,Re: Faulty OQS sensor,2025-11-14,003PC00000ZNHZkYAP,001PC000001c7xZYAQ,001PC000001c7xZYAQ,NL,EU10,005PC00000tHPrxYAG,Not Started,Normal,"Additional To: allen.lester@descase.com
+CC: nazanin.mir.derikvandi@descase.com; audrey.klemz@descase.com; cees.rijkaart@descase.com
+BCC: 
+Attachment: image001.png, Outlook-uiti2skv.png, Outlook-124g4san.png, RMA_7483_Des-Case.pdf
+
+Subject: Re: Faulty OQS sensor
+Body:
+Hi Allen,
+
+Sorry to hear about issues with a sensor, I have prepared RMA 7483 attached for the return
+
+Have a nice weekend later!
+
+Met vriendelijke groeten / Kind regards / Mit freundlichen Grüssen,
+Lourens A. Rhijnsburger | Inside Sales Support
+
+
+PLEASE REPLY TO THIS EMAIL ACCOUNT SALES.EMEA@DESCASE.COM<mailto:SALES.EMEA@DESCASE.COM>, THANK YOU
+
+Sales.EMEA dept.
+
+[cid:a1edd1e9-9896-4f5e-861c-9de814b1f091]
+
+RMF Systems B.V. | Coenecoop 99, 2741 PH, Waddinxveen, Netherlands
+
+Main: +31.(0)182.244.888
+www.descase.com<https://urldefense.com/v3/__https:/www.descase.com/__;!!PoGYGYb4!jEr65Mu21bkiShvijwH40zoRhpCD4CJAWzpLaxQuaHqtqS7Qv5li1ZIkKFQ2_gJ2V-0FNUDkkCiqW7xlbjF6HUJvMouM0A$> | Sales.EMEA@descase.com<mailto:Sales.EMEA@descase.com>
+Blog<https://www.descase.com/blog/> | Facebook <https://urldefense.com/v3/__https://www.facebook.com/DesCaseCorporation/__;!!HZrNX8cdzKKJHA!VeG-MxYin0QMLzrB20ELtj0dQPvVVej3-mu9dBe-k6vRErCueYQzDmFu9UYk-9Cap1HzvXjd7R-PhA$> | LinkedIn<https://urldefense.com/v3/__https://www.linkedin.com/company/des-case-corporation__;!!HZrNX8cdzKKJHA!VeG-MxYin0QMLzrB20ELtj0dQPvVVej3-mu9dBe-k6vRErCueYQzDmFu9UYk-9Cap1HzvXjqh3DLNw$> | YouTube<https://urldefense.com/v3/__https://www.youtube.com/user/DesCaseCorporation__;!!HZrNX8cdzKKJHA!VeG-MxYin0QMLzrB20ELtj0dQPvVVej3-mu9dBe-k6vRErCueYQzDmFu9UYk-9Cap1HzvXgj-i1yKA$>
+
+Please consider the environment before printing this email.
+
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction, or an official statement of Sender
+
+
+________________________________
+From: Rijkaart, Cornelis Leendert (Cees) <cees.rijkaart@descase.com>
+Sent: Thursday, November 13, 2025 16:51
+To: Lester, Allen M. <allen.lester@descase.com>; DesCase-Sales EMEA <sales.EMEA@descase.com>
+Cc: Mir Derikvandi, Nazanin (Nazanin Mir Derikvandi) <nazanin.mir.derikvandi@descase.com>; Klemz, Audrey B. <audrey.klemz@descase.com>
+Subject: Re: Faulty OQS sensor
+
+Hi Allen,
+
+Thanks for your email. It indeed does feel like the issue is in the sensor.
+@DesCase-Sales EMEA<mailto:sales.EMEA@descase.com> could you please provide an RMA to Allen for the return of the sensor?
+SO: 273330, SN 1025170
+
+Thank you!
+
+
+Best regards,
+
+
+
+Cees Rijkaart | Manager Quality & Engineering
+
+[cid:34ce42ae-759d-4f61-8077-2416c953b6d5]
+
+RMF Systems B.V. | Coenecoop 99, 2741 PH, Waddinxveen, Netherlands
+
+Main: +31.(0)182.244.888 | Direct: +31.(0)182.244.882 | Mobile:+31.(0)682.658.199
+descase.com<https://urldefense.com/v3/__https://www.descase.com/__;!!PoGYGYb4!jEr65Mu21bkiShvijwH40zoRhpCD4CJAWzpLaxQuaHqtqS7Qv5li1ZIkKFQ2_gJ2V-0FNUDkkCiqW7xlbjF6HUJvMouM0A$> | cees.rijkaart@descase.com<mailto:First.LastName@descase.com>
+Blog<https://www.descase.com/blog/> | Facebook <https://www.facebook.com/DesCaseCorporation/> | LinkedIn<https://www.linkedin.com/company/des-case-corporation> | YouTube<https://www.youtube.com/user/DesCaseCorporation>
+
+
+
+Please consider the environment before printing this email.
+
+
+
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction, or an official statement of Sender
+
+________________________________
+From: Lester, Allen M. <allen.lester@descase.com>
+Sent: Thursday, November 13, 2025 14:21
+To: Rijkaart, Cornelis Leendert (Cees) <cees.rijkaart@descase.com>
+Cc: Mir Derikvandi, Nazanin (Nazanin Mir Derikvandi) <nazanin.mir.derikvandi@descase.com>; Klemz, Audrey B. <audrey.klemz@descase.com>
+Subject: Faulty OQS sensor
+
+
+Hi Cees,
+
+
+
+I currently am working on a quality case where the customer believes they have received a faulty OQS sensor. Please see below for customers experience with the sensor:
+
+
+
+All six sensors were tested under identical conditions using Indian Oil Servosteel EP Plus 150 at ~24–25°C, with identical positioning.
+
+
+
+For oil quality, five sensors read consistently between 800–900 TDN, while sensor #6 showed 1320–1320 TDN, well out of range. After swapping sensor #6 with a previously tested sensor, the readings immediately normalized (800–900 TDN), which tends me to believe the sensor #6 is somewhat defective.
+
+
+
+PO is 1080011 from Vendor 1924950
+
+
+
+Sensor #6 serial no is 1025170
+
+
+
+I asked Josh from the technical support side to provide some troubleshooting and based on what he discussed with the end user he believes the sensor is faulty as well. We have placed an order for a new sensor to be shipped to replace this current one and therefore solve the customer concern, but could you issue a RMA for this faulty sensor to return to RMF and have TanDelta complete a root cause analysis as to why this is reading inaccurately? If it can be repaired, we will place the PO to bring it back to Goodlettsville.
+
+
+
+Best regards,
+
+
+
+Allen Lester | Quality Control Manager
+
+[cid:image001.png@01DC546E.17F992C0]
+
+675 N. Main St., Goodlettsville, TN 37072 USA
+Main: +1.615.672.8800
+descase.com<https://urldefense.com/v3/__https:/www.descase.com/__;!!PoGYGYb4!jEr65Mu21bkiShvijwH40zoRhpCD4CJAWzpLaxQuaHqtqS7Qv5li1ZIkKFQ2_gJ2V-0FNUDkkCiqW7xlbjF6HUJvMouM0A$> | allen.lester@descase.com<mailto:allen.lester@descase.com>
+Blog<https://www.descase.com/blog/> | Facebook <https://www.facebook.com/DesCaseCorporation/> | LinkedIn<https://www.linkedin.com/company/des-case-corporation> | YouTube<https://www.youtube.com/user/DesCaseCorporation>
+
+
+
+Please consider the environment before printing this email.
+
+
+
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction, or an official statement of Sender.",005C000000B7DLFIA3
+00TPC000014K46I2AS,Re: KLEENTEK - Inquiry - 9251889,2026-06-02,003PC00000jJWwjYAG,001C000001QnTTaIAN,001C000001QnTTaIAN,CZ,EU43,005C000000B7DLFIA3,Not Started,Normal,"Additional To: provoz@kleentek.cz
+CC: 
+BCC: 
+Attachment: image001.png, Outlook-u3vwsawu.png, Quote_356629_Kleentek.pdf
+
+Subject: Re: KLEENTEK - Inquiry - 9251889
+Body:
+Hello Gabriela,
+
+Thank you for enquiry, our quotation 356629 is attached here for the PS41
+
+Have a nice day,
+
+Best Regards,
+Lourens A. Rhijnsburger | Inside Sales Support
+
+
+PLEASE REPLY TO THIS EMAIL ACCOUNT SALES.EMEA@DESCASE.COM<mailto:SALES.EMEA@DESCASE.COM>, THANK YOU
+
+Sales.EMEA dept.
+
+Download our latest general product catalog: https://www.descase.com/resources/product-catalog/
+
+[cid:cd5b7427-7485-4a8e-a765-3c12f4bb057c]
+
+RMF Systems B.V. | Coenecoop 99, 2741 PH, Waddinxveen, Netherlands
+
+Main: +31.(0)182.244.888
+
+www.descase.com<https://urldefense.com/v3/__https:/www.descase.com/__;!!PoGYGYb4!jEr65Mu21bkiShvijwH40zoRhpCD4CJAWzpLaxQuaHqtqS7Qv5li1ZIkKFQ2_gJ2V-0FNUDkkCiqW7xlbjF6HUJvMouM0A$> | Sales.EMEA@descase.com<mailto:Sales.EMEA@descase.com>
+
+Blog<https://www.descase.com/blog/> | Facebook <https://urldefense.com/v3/__https://www.facebook.com/DesCaseCorporation/__;!!HZrNX8cdzKKJHA!VeG-MxYin0QMLzrB20ELtj0dQPvVVej3-mu9dBe-k6vRErCueYQzDmFu9UYk-9Cap1HzvXjd7R-PhA$> | LinkedIn<https://urldefense.com/v3/__https://www.linkedin.com/company/des-case-corporation__;!!HZrNX8cdzKKJHA!VeG-MxYin0QMLzrB20ELtj0dQPvVVej3-mu9dBe-k6vRErCueYQzDmFu9UYk-9Cap1HzvXjqh3DLNw$> | YouTube<https://urldefense.com/v3/__https://www.youtube.com/user/DesCaseCorporation__;!!HZrNX8cdzKKJHA!VeG-MxYin0QMLzrB20ELtj0dQPvVVej3-mu9dBe-k6vRErCueYQzDmFu9UYk-9Cap1HzvXgj-i1yKA$>
+
+Please consider the environment before printing this email.
+
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an official confirmation of any transaction, or an official statement of Sender
+
+________________________________
+From: Provoz | KLEENTEK spol. s r.o. <provoz@kleentek.cz>
+Sent: Tuesday, June 2, 2026 07:47
+To: DesCase-Sales EMEA <sales.EMEA@descase.com>
+Subject: [EXT] KLEENTEK - Inquiry - 9251889
+
+Good morning team, I am asking for another quote, this time for spare part 9251889. PRESSURE SWITCH, Part No. 9251889 for oil filling OLUH1B60G1V010SS1. Thank you very much Best regards Gabriela Janků +420 725 618 625 / provoz@ kleentek. cz KLEENTEK,
+ZjQcmQRYFpfptBannerStart
+This Message Is From an External Sender
+This message came from outside your organization.
+
+ZjQcmQRYFpfptBannerEnd
+
+Good morning team,
+
+
+
+I am asking for another quote,
+
+this time for spare part 9251889.
+
+PRESSURE SWITCH, Part No. 9251889
+
+for oil filling OLUH1B60G1V010SS1.
+
+
+
+Thank you very much
+
+
+
+Best regards
+
+
+
+Gabriela Janků
+
+
+
++420 725 618 625 / provoz@kleentek.cz<mailto:provoz@kleentek.cz>
+
+
+
+
+
+KLEENTEK, SPOL. S R. O. – KUTNOHORSKÁ 11/57, 111 01 PRAHA 10
+
++420 281 861 724 / www.kleentek.eu<https://urldefense.com/v3/__http://www.kleentek.eu/__;!!HZrNX8cdzKKJHA!Q8IDvQd53nco7914Vm-XE4uWnfUVOEgeFbklk2YYSjkP612pSGXhs2wVpxSexzijON23GNln9iVymLTclLw$>
+
+
+
+[cid:image001.png@01DCF263.C9E8BEF0]<https://urldefense.com/v3/__https://www.kleentek.cz/37-dvoudenni-seminar-cerven-2026/__;!!HZrNX8cdzKKJHA!Q8IDvQd53nco7914Vm-XE4uWnfUVOEgeFbklk2YYSjkP612pSGXhs2wVpxSexzijON23GNln9iVyUfJaAS4$>",005C000000B7DLFIA3
